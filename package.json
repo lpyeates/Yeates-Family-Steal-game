@@ -1,0 +1,25 @@
+{
+  "name": "yeates-family-steal-game",
+  "version": "1.0.0",
+  "description": "Repo so my family can keep a christmas tradition alive even if the rona tries to stop it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpyeates/Yeates-Family-Steal-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpyeates/Yeates-Family-Steal-game/issues"
+  },
+  "homepage": "https://github.com/lpyeates/Yeates-Family-Steal-game#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.7"
+  }
+}
